@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:3DProject/Assets/Script/TakeDmg.cs.meta
+guid: 0c9f173bea5516f4e80df2a63da88400
+========
+guid: 24c32b92fe31f7449924268df18c98bb
+>>>>>>>> 543f919a20064a323bc9ae3572de89d9f0a67496:3DProject/Assets/Script/Model/EnemyModel.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
